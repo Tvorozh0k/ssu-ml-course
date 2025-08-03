@@ -1,7 +1,7 @@
 # Тема 3: Классификация KNN
 
 [![First Part](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GEWyLhTJf-EdCJSnQ8VNtVkBkh_n1CC-?usp=sharing)
-[![Second Part](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Second Part](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BgxemsBe-iPXASYTPZFaar0kogi-EH-G?usp=sharing)
 [![Third Part](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 > Не удалось загрузить `.ipynb` файл в данный репозиторий. Для просмотра Google Colab ноутбука можно воспользоваться ссылкой выше.
