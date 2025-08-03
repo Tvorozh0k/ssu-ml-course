@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tvorozh0k/ssu-ml-course/blob/main/1_exploratory_data_analysis_and_preprocessing/ML_Penguins.ipynb)
 
-> Для визуализации данных использовалась графическая Python библиотека Plotly, графики которой, к сожалению, не отображаются в `.ipynb` файлах. Для просмотра графиков можно открыть данный ноутбук в [Google Colab](https://colab.research.google.com/).
+> Для визуализации данных использовалась графическая библиотека [Plotly](https://plotly.com/python/), графики которой, к сожалению, не отображаются в `.ipynb` файлах. Для просмотра графиков можно открыть данный ноутбук в [Google Colab](https://colab.research.google.com/).
 
 ## Задания
 
