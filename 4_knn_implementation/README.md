@@ -1,6 +1,6 @@
 # Тема 4: Классификация (свой KNN)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tvorozh0k/ssu-ml-course/blob/main/4_knn_implementation/ML_Penguins.ipynb)
 
 > Для визуализации данных использовалась графическая библиотека [Plotly](https://plotly.com/python/), графики которой, к сожалению, не отображаются в `.ipynb` файлах. Для просмотра графиков можно открыть данный ноутбук в [Google Colab](https://colab.research.google.com/).
 
