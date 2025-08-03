@@ -2,7 +2,7 @@
 
 [![First Part](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GEWyLhTJf-EdCJSnQ8VNtVkBkh_n1CC-?usp=sharing)
 [![Second Part](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BgxemsBe-iPXASYTPZFaar0kogi-EH-G?usp=sharing)
-[![Third Part](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Third Part](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hFjSV7cWuOBvD5VZJO3XN_RvxdJFRB_r?usp=sharing)
 
 > Работа выполнена из трех частей. Ссылки на каждую из них выше.
 
