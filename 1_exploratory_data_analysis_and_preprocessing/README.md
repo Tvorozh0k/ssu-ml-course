@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tvorozh0k/ssu-ml-course/blob/main/1_exploratory_data_analysis_and_preprocessing/ML_Penguins.ipynb)
 
+> Для визуализации данных использовалась графическая Python библиотека Plotly, графики которой, к сожалению, не отображаются в `.ipynb` файлах. Для просмотра графиков можно открыть данный ноутбук в [Google Colab](https://colab.research.google.com/).
+
 ## Задания
 
 1. Скачайте набор данных о пингвинах, собранный на островах близ Антарктиды: [Kaggle](https://www.kaggle.com/datasets/ashkhagan/palmer-penguins-datasetalternative-iris-dataset)
